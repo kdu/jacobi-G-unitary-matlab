@@ -14,4 +14,5 @@ This repository reproduces the numerical experiments from the preprint:
 It also  the preprint.
 
 ## Prerequisites 
-[TensorLab v.3.0](https://www.tensorlab.net) should be installed and should be on the MATLAB path.
+ * The code was tested on MATLAB R2019b, but should run on previous versions.
+ * [Manopt](https://www.manopt.org/) should be installed and should be on the MATLAB path.
