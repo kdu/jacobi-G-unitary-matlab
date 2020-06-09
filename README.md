@@ -11,6 +11,7 @@ This repository reproduces the numerical experiments from the preprint:
     primaryClass={math.OC}
 }
 ```
+The figures can be reproduced by running `main_test.m`.
 
 ## Prerequisites 
  * The code was tested on MATLAB R2019b, but should run on previous versions.
